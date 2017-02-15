@@ -10,11 +10,12 @@ Look how easy it is to use:
     # Get your stuff done
     project.do_stuff()
 
-Features
---------
+Liste des comptes
+-----------------
 
-- Be awesome
-- Make things faster
+- Caisse
+- Banque
+- Poste
 
 Installation
 ------------
